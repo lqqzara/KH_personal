@@ -1,11 +1,11 @@
-package test001;
+package note220304;
 
 //기능 추가
 import java.util.*;
 
 public class Example001 {
 
-//	멤버변수
+//	멤버변수: 접근제한자 변수타입 변수명=값;
 	private int number=0;
 	private String name="ara";
 	
